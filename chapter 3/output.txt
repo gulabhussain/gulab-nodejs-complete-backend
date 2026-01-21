@@ -1,0 +1,2 @@
+sum=14
+product=45
